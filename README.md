@@ -21,6 +21,7 @@ The program accepts a word (the program notes that cin will read input until the
 Boolean (bool):                                                                                             
 The program accepts a boolean input(0= false, 1=true), shows it, then prints the size  which is of 1 bytes.
 
+Key Concept:    
 sizeof() Operator: It finds out how much memory (in bytes) each data type occupies.                                             
 Data Representation: This program illustrates how different data types represent various data and the memory requirement of each.                   
 User Interaction: For every data type, the program asks the user, reads the input with cin, then outputs the value and the size of the datatype.
