@@ -2,7 +2,7 @@
 Aim: To print Hello World and design a Claculator to add,subtract,multiply and divide two user input number.
 Appratus: GNU g++ compiler for local and code editor or Online C++ Compiler.
 
-Program Explaination:
+Program Explaination:      
 The program includes #include<iostream>  for input/output operations and then #include<string>  to demonstrate the string data type. The using namespace std; statement allows the use of cout, cin, string, etc. without using std:: beforehand.
 
 Program Flow
