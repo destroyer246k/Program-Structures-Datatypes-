@@ -8,16 +8,16 @@ The program includes #include<iostream>  for input/output operations and then #i
 Program Flow
 In the main() function, the program illustrates the declaration, input, and size of various C++ data types:
 
-Integer (int):                                                                                                      
+Integer (int):                                                                             
 The user is prompted for an integer, which is printed along with its size in bytes using sizeof() which is of 4 bytes.      
-Floating-point (float):                                                                                                
-The program accepts a float input (decimal number) and prints the value and its size in memory  which is of 4 bytes.
+Floating-point (float):                                                                                          
+The program accepts a float input (decimal number) and prints the value and its size in memory  which is of 4 bytes.    
 Character (char):                                                                                      
-The program reads a single character from user input, then prints it and its size  which is of 1 bytes.
-Double (double):                                                                                                                 
-The user is prompted to input a double-precision floating-point number, which is then printed with its size  which is of 8 bytes.
+The program reads a single character from user input, then prints it and its size  which is of 1 bytes.     
+Double (double):                                                                   
+The user is prompted to input a double-precision floating-point number, which is then printed with its size  which is of 8 bytes.   
 String (string):                                                                                                                                                                                              
-The program accepts a word (the program notes that cin will read input until the first space), prints the string, and its size in memory. The program uses sizeof(string), which returns the fixed size of the string object itself, not the length of the string  which is of 24 bytes.                                                  
+The program accepts a word (the program notes that cin will read input until the first space), prints the string, and its size in memory. The program uses sizeof(string), which returns the fixed size of the string object itself, not the length of the string  which is of 24 bytes.                                                     
 Boolean (bool):                                                                                             
 The program accepts a boolean input(0= false, 1=true), shows it, then prints the size  which is of 1 bytes.
 
