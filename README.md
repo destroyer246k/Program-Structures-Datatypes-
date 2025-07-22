@@ -1,7 +1,7 @@
 # Program-Structures-Datatypes
 Aim: To study and implement C++ Program Structure (Data Types).
     
-Appratus: GNU g++ compiler for local and code editor or Online C++ Compiler.
+Tools: GNU g++ compiler for local and code editor or Online C++ Compiler.
 
 # Theory
 
