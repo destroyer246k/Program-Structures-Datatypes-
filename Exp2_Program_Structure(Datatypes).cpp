@@ -32,3 +32,23 @@ int main()
     cin >> d;
     cout << "Boolean is "<< d << " and its size is " << sizeof(d) << " Bytes " << endl<< endl;
 }
+/*
+output:
+Enter integer number:10
+Integer is 10 and its size is 4 Bytes
+
+Enter floating number:3.14
+Floating Number is 3.14 and its size is 4 Bytes
+
+Enter Character:A
+Character is A and its size is 1 Bytes 
+
+Enter double int number:25.6789
+double int is 25.6789 and its size is 8 Bytes 
+
+Enter String Vishwas
+string is Vishwas and its size is 32 Bytes 
+
+Enter Boolean value:1
+Boolean is 1 and its size is 1 Bytes
+*/
